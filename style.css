@@ -1,0 +1,46 @@
+*{
+margin: o;
+padding: 0;
+}
+.nav{
+   position: absolute;
+   width: 5%;
+
+}
+a{
+  text-decoration: none;
+  font-size: 2em;
+  color:white ;
+  font-weight: bolder;
+}
+li{
+    list-style-type: none;
+    margin:5em 0;   
+}
+html{
+  background-image:url("./office-925806_1920.jpg");
+  background-color:whitesmoke;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#header{
+    margin-left: 5% ;
+    text-align: center;
+    font-size: 2em;
+    width: 75%;
+}
+#main{
+  position: relative;
+}
+#icon{
+  position:absolute;
+  border-radius: 50%;
+  width: 400px;
+  left: 200px;
+  top:450px ;
+}
+img{
+  width: 100%;
+  border-radius: 50%;
+}
